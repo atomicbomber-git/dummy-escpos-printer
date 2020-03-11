@@ -1,0 +1,16 @@
+{
+    "name": "atomicbomber/dummy-escpos-printer",
+    "description": "Dummy ESC-POS Printer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Patrick Keegan",
+            "email": "atomicbomber.email@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "react/socket": "^1.3"
+    }
+}
